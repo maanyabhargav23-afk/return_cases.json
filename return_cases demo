@@ -1,0 +1,32 @@
+{
+  "demoOnly": true,
+  "records": [
+    {
+      "orderId": "RET-DEMO-101",
+      "productId": "SKU-1001",
+      "itemType": "physical_product",
+      "daysSinceDelivery": 5,
+      "condition": "unused",
+      "originalPackaging": true,
+      "proofOfPurchase": true
+    },
+    {
+      "orderId": "RET-DEMO-102",
+      "productId": "SKU-1002",
+      "itemType": "physical_product",
+      "daysSinceDelivery": 20,
+      "condition": "unused",
+      "originalPackaging": true,
+      "proofOfPurchase": true
+    },
+    {
+      "orderId": "RET-DEMO-103",
+      "productId": "GIFT-001",
+      "itemType": "digital_gift_card",
+      "daysSinceDelivery": 3,
+      "condition": "unused",
+      "originalPackaging": false,
+      "proofOfPurchase": true
+    }
+  ]
+}
